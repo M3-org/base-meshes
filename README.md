@@ -1,8 +1,6 @@
 # base-meshes
 
-CC0 grey box game dev assets derived from https://thebasemesh.com that can be used as an asset pallet
-
-Drag and drop into platforms that support drag n' drop editing (hyperfy.io, webaverse, janusweb, etc)
+100% free CC0 game dev assets derived from https://thebasemesh.com and converted into glTF binary as an asset pallet. Every model is made to real-world scale and comes with basic UVs. You can drag and drop from the github pages into platforms that support drag n' drop real-time editing (https://hyperfy.io, [webaverse](https://github.com/webaverse-studios), [janusweb](https://github.com/jbaicoianu/janusweb), etc).
 
 Link: https://m3-org.github.io/base-meshes/
 
